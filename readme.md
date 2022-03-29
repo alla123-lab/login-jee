@@ -1,0 +1,1 @@
+ce petit projet c'est pour tester un systeme distribué et je veux le cloner directement en ubuntu server 
